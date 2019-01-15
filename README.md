@@ -1,4 +1,4 @@
-# oss-days
+# Speee OSS Days
 
 ## 開催の案内は、twitter のハッシュタグ　#speee_oss_days などを確認しよう！！
 
